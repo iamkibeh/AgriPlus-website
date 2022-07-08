@@ -189,7 +189,6 @@ margin-bottom: 30px
 
 .heading{
   margin-left: 35px;
-  margin-bottom: 10px;
 }
 
 .popular-items{
@@ -213,4 +212,39 @@ margin: 25px;
 } 
 .popular-items .example .cost h6{
   font-size: xx-small;
+}
+
+/* see all section */
+
+.see-all{
+  /* background-color: green; */
+display: flex;
+justify-content: flex-end;
+margin-right: 40px;
+}
+
+.see-all .underline2{
+  background-color: #ED661F;
+  width: 25px;
+  height: 2px;
+}
+.see-all i{
+  font-size:48px 0;
+  color:#ED661F;
+  margin:5px 10px;
+  width: 40px;
+  
+}
+.see-all .heading h5{
+  font-size: 12px;
+}
+
+.border{
+  width: 95%;
+  margin: auto;
+  margin-top:35px;
+  height: 15px;
+  background-color: rgb(160, 168, 168);
+  border-top:2px solid gray;
+  margin-bottom: 30px;
 }
