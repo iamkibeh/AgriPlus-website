@@ -58,10 +58,10 @@ body{
   border: none;
   color: white;
   font-weight: 700;
-  background-color: rgba(240, 115, 49, 0.9);
+  background-color: #ED661F;
 }
 .active{
-border-bottom: 2px solid rgb(240, 100, 49);
+border-bottom: 2px solid #ED661F;
 
 }
 
@@ -114,7 +114,7 @@ background-size: contain;
 .feedback{
   width:50%;
   height: 72px;
-  background-color: brown;
+  background-color: antiquewhite;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -166,12 +166,15 @@ flex:1;
   max-width: 100%;
   max-height: 100%;
 }
+
+
 /* products section */
 .products{
 width: 50%;
 /* background-color: blueviolet; */
 margin: auto;
 text-align: center;
+margin-bottom: 30px
 }
 .products div{
  margin: auto;
@@ -180,4 +183,34 @@ text-align: center;
 }
 .products p{
   font-size: 9px;
+}
+
+/* popular products section */
+
+.heading{
+  margin-left: 35px;
+  margin-bottom: 10px;
+}
+
+.popular-items{
+  width: 95%;
+  margin: auto;
+  display: flex;
+}
+
+.popular-items .example{
+margin: 25px;
+}
+
+.popular-items .example img{
+  max-width: 100%;
+  max-height: 100%;
+  margin-bottom: 4px;
+}
+
+.popular-items .example .cost p{
+  font-size: 8px;
+} 
+.popular-items .example .cost h6{
+  font-size: xx-small;
 }
