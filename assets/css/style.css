@@ -133,3 +133,36 @@ background-size: contain;
   font-size: 8px;
   font-weight: 900;
 }
+
+/* about section */
+
+.underline{
+  width: 50px;
+  height: 2px;
+  background-color: #ED661F;
+}
+
+.about{
+  display: flex;
+  width: 90%;
+  margin: auto;
+
+}
+.about>.content{
+flex:1;
+
+}
+.about .content p{
+  font-size: 9px;
+  margin-top: 15px;
+  
+}
+.about .image{
+  flex: 1;
+  position: relative;
+  top: -30px;
+}
+.about .image img{
+  max-width: 100%;
+  max-height: 100%;
+}
