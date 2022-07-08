@@ -262,7 +262,38 @@ margin-right: 40px;
 
 .ratings{
   background-color: blue;
-  width: 90%;
+  width: 95%;
   margin: auto;
   display: flex;
+}
+
+.ratings .fivestar{
+  margin: 20px;
+  background-color: aqua;
+  flex: 1;
+}
+
+.ratings .fivestar .stars{
+  color: rgba(201, 201, 201, 0.815);
+  text-align: center;
+  margin-bottom: 20px;
+}
+.ratings .fivestar .stars span{
+  margin: 3px;
+}
+.ratings .fivestar .quote{
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 900
+}
+.ratings .fivestar .handle{
+  display: flex;
+}
+.ratings .fivestar .handle img{
+  flex: 1/4;
+  max-width: 100%;
+  max-height: 100%;
+}
+.ratings .fivestar .handle .p{
+  flex: 3/4;
 }
