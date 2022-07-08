@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family:"Poppins","Inter";
+}
+.navbar{
+  background-color: black;
+  width: 90%;
+  height: 80px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  color: whitesmoke;
+}
+.navbar .logo{
+  margin: 25px;
+
+}
+.navbar .nav nav{
+/* background-color: green; */
+/* width: 300px; */
+
+}
+.navbar .nav nav ul{
+  list-style-type: none;
+  margin: 25px;
+}
