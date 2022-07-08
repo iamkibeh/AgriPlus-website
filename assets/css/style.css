@@ -28,3 +28,38 @@ body{
   list-style-type: none;
   margin: 25px;
 }
+.navbar .nav nav ul li{
+  display: inline-block;
+  margin: 5px;
+
+  
+}
+.navbar .nav nav ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.navbar .login{
+  margin-right: 25px;
+  margin-top: 28px;
+ 
+}
+.navbar .login form label{
+  margin-right: 25px;
+  font-size: 10px;
+}
+
+.navbar .login form input{
+  width:90px ;
+  height: 35px;
+  border: none;
+  color: white;
+  font-weight: 700;
+  background-color: rgba(240, 115, 49, 0.9);
+}
+.active{
+border-bottom: 2px solid rgb(240, 100, 49);
+
+}
