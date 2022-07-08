@@ -248,3 +248,21 @@ margin-right: 40px;
   border-top:2px solid gray;
   margin-bottom: 30px;
 }
+
+
+/* credits section */
+
+.subject{
+  font-size: 8px;
+  font-family: "Poppin";
+  width: 90%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.ratings{
+  background-color: blue;
+  width: 90%;
+  margin: auto;
+  display: flex;
+}
