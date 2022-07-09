@@ -441,3 +441,12 @@ margin-right: 10px;
   font-weight: bolder;
   font-size: 12px;
 }
+/* copyright section */
+
+.copyright{
+  background-color: black;
+  color: #fafafa;
+  text-align: center;
+  font-size: 10px;
+  font-weight: bolder;
+}
