@@ -450,3 +450,23 @@ margin-right: 10px;
   font-size: 10px;
   font-weight: bolder;
 }
+
+/* Responsiveness */
+
+@media  only screen and (max-width:680px){
+
+  .navbar{
+    background-color: black;
+    height: fit-content;
+  }
+
+  .navbar .nav nav ul li{
+    display: block;
+    margin: 5px; 
+  }
+  .active{
+    width: 32px;
+   /* text-decoration: underline solid #ED661F 20%; */
+  }
+
+}
