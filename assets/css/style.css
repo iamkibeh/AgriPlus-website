@@ -32,7 +32,6 @@ body{
 .navbar .nav nav ul li{
   display: inline-block;
   margin: 5px;
-
   
 }
 .navbar .nav nav ul li a{
@@ -267,9 +266,11 @@ margin-bottom: 30px;
   width: 95%;
   margin: auto;
   display: flex;
+
 }
 
 .ratings .fivestar{
+  /* min-width: 20px; */
   margin: 20px;
   background-color:#fafafa ;
   box-shadow:0 2px 2px rgb(155, 155, 155) ;
@@ -331,7 +332,7 @@ color: #ED661F;
   margin-bottom: 3px;
 }
 .subscription .sub{
-  width: 32%;
+  width: 250px;
   margin:auto;
   padding: 5px;
   height: 140px;
@@ -343,10 +344,10 @@ color: #ED661F;
   padding-top: 10px;
   margin-bottom: 15px;
   display: flex;
- 
-}
-.subscription form #email{
 
+}
+
+.subscription form #email{
 text-align: center;
 width: 180px;
 height: 25px;
@@ -371,7 +372,7 @@ margin-bottom: 10px;
   background-color: black;
   color: whitesmoke;
   display: flex;
-  height: 300px;
+  height: 220px;
 padding: 50px 20px 10px 20px;
 }
 .footer .find-us{
@@ -441,6 +442,7 @@ margin-right: 10px;
   font-weight: bolder;
   font-size: 12px;
 }
+
 /* copyright section */
 
 .copyright{
@@ -469,4 +471,18 @@ margin-right: 10px;
    /* text-decoration: underline solid #ED661F 20%; */
   }
 
+  .ratings{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
+  }
+  .ratings .fivestar .handle{
+    display: grid;
+    /* background-color: #ED661F; */
+    
+  }
+
+  .ratings .fivestar .handle img,p{
+    justify-self: center;
+  
+  }
 }
