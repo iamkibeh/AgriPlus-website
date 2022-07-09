@@ -412,6 +412,32 @@ margin-right: 10px;
   height: 35px;
   border-radius: 5px;
 }
+
+/* more */
 .footer .more{
   flex: 1;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #fafafa; */
+  margin-top: -15px;
+  margin-right: 30px;
+}
+
+.footer .more .list {
+  /* background-color: #ED661F; */
+  margin:10px;
+  flex: 1;
+}
+.footer .more .list ul li{
+  list-style-type: none;
+  text-align: left;
+}
+.footer .more .list ul li a{
+  color: white;
+  text-decoration: none;
+  font-size: 8px;
+}
+.footer .more .list ul li #active{
+  font-weight: bolder;
+  font-size: 12px;
 }
