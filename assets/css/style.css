@@ -372,7 +372,7 @@ margin-bottom: 10px;
   background-color: black;
   color: whitesmoke;
   display: flex;
-  height: 220px;
+  height: auto;
 padding: 50px 20px 10px 20px;
 }
 .footer .find-us{
