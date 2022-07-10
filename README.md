@@ -1,7 +1,8 @@
 # AgriPlus-website
 Agricultural website that offers trading services to customers online, 9th-july-2022
 #### By **Kibet Immanuel Ng'eno**
-
+### Link to the website
+[click here](http://127.0.0.1:5500/)
 ## Table of Content
 * [Description](#description)
 * [SetupInstallation Requirements]()
