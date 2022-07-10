@@ -1,15 +1,14 @@
 # AgriPlus-website
 Agricultural website that offers trading services to customers online, 9th-july-2022
 #### By **Kibet Immanuel Ng'eno**
-### Link to the website
-[click here](http://127.0.0.1:5500/)
 ## Table of Content
 * [Description](#description)
-* [SetupInstallation Requirements]()
-* [Known-bugs]()
-* [Technology Used]()
+* [SetupInstallation Requirements](#setupinstallation-requirement)
+* [Known-bugs](#known-bugs)
+* [Technology Used](#technologies-used)
 * [Contributing](#contributing)
-* [Support and contact details]()
+* [Support and contact details](#support-and-contact-details)
+* [Licence](#license)
 
 ## Description
 
@@ -24,6 +23,10 @@ Its objectives include:
 - Connect rural to urban through business
 - Promote free and fair trading among'st traders.
 
+### Link to the website
+[click here](iamkibeh.github.io/agriplus-website/)
+
+[Go Back To the Top](#table-of-content)
 ## Setup/Installation Requirement
 #### Requirements
 1. An access to the Internet
@@ -53,9 +56,13 @@ $git clone 'url'
 ```
 9. you now have the repository in your local machine.
 > note that you do not need any dependencies to run this application. It works best on a code editor of your choice.
+
+[Go Back To the Top](#table-of-content)
 ## Known Bugs
 
 This website works and responds well with medium and large sized screens. Users with small sized screens for example mobile phones with smaller widths may find it difficult using the application but I am working on making the website accessible to any device. I am also looking forward to incorporating a database that would handle user input data and manage it to produce expected results.
+
+[Go Back To the Top](#table-of-content)
 ## Technologies Used
 - HTML :star: :star: :star: :star: 
 >I used HTML to to add a form field with a button for subscription
@@ -64,10 +71,14 @@ This website works and responds well with medium and large sized screens. Users 
 ## Contributing
 Feel free to create a pull request. It is highly welcomed and if you wish to share any information or concerns of what should be implimented in the project the floor is yours to open an issue on changes you would wish to be made.
 If you are new to the contribution world click on this [link](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/main/CONTRIBUTING.md) and follow the guide documented. Congratulations to joining contribution world. 
+
+[Go Back To the Top](#table-of-content)
 ## Support and contact details
 
 Incase you encounter any bug or issue, feel free to reach us out at our support team [support](https deployed link).
 You can also contact us :phone: [+254716246708](tell:+254716246708). Alternatively, you can make a contribution to the project as mentioned earlier.
+
+[Go Back To the Top](#table-of-content)
 ### Questions?
 Twitter :twitter: : [@IamKibeh](https://twitter.com/IamKibeh)
 Email :e-mail: : [kibetimmanuel0@gmail.com]()
@@ -83,4 +94,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Copyright (c) {2022} **{AgriPlus}**
 
-[Go Back To the Top](https://github.com/iamkibeh/AgriPlus-website/)
+[Go Back To the Top](#table-of-content)
