@@ -116,6 +116,9 @@ letter-spacing: 2px;
   color: whitesmoke;
   font-weight: 900;
 }
+.home .content button:hover{
+  transform: scale(1.05);
+}
 .home .fruits{
   flex: 1;
 
