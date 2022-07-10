@@ -48,6 +48,9 @@ letter-spacing: 1px;
   font-size: 10px;
   font-weight: 600;
 }
+.navbar .nav nav ul li a:hover{
+  font-size: 12px;
+}
 
 .navbar .login{
   margin-right: 25px;
@@ -66,6 +69,9 @@ letter-spacing: 1px;
   color: white;
   font-weight: 700;
   background-color: #ED661F;
+}
+.navbar .login form input:hover{
+  box-shadow: 1px 1px 1px #ED661F;
 }
 .active{
 border-bottom: 2px solid #ED661F;
@@ -104,7 +110,7 @@ letter-spacing: 2px;
   margin-bottom: 85px;
   margin-top: 20px;
   height: 38px;
-  background-color: rgba(240, 115, 49, 0.9);
+  background-color: #ED661F;
   border: none;
   padding: 10px;
   color: whitesmoke;
