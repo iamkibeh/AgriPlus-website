@@ -82,4 +82,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Copyright (c) {2022} **{AgriPlus}**
 
-[Go Back To the Top](https://github.com/iamkibeh/AgriPlus-website/edit/master/README.md)
+[Go Back To the Top](https://github.com/iamkibeh/AgriPlus-website/)
