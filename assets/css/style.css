@@ -309,9 +309,15 @@ margin-bottom: 30px;
 color: #ED661F;
 }
 .ratings .fivestar .quote{
-  padding: 10px;
+  padding: 15px;
   font-size: 12px;
   font-weight: 900
+}
+.ratings .fivestar .quote h3{
+  text-shadow: 1px 0px 0;
+  letter-spacing: 1px;
+  /* background-color: #ED661F; */
+  margin: 1em;
 }
 .ratings .fivestar .handle{
   /* background-color: yellow; */
@@ -381,6 +387,9 @@ border: none;
   margin-left: -1px;
   border: none;
 }
+.subscription form #submit:hover{
+  transform: scale(1.05);
+}
 .subscription p{
 font-size: 12px;
 margin-bottom: 10px;
@@ -416,11 +425,17 @@ font-size: 12px;
 color: black;
 padding: 3px;
 }
+.footer .find-us .twiter span i:hover{
+  transform: scale(1.05);
+}
 .footer .find-us h6{
   margin-top: 15px;
 }
 .footer .find-us .app-store{
 margin-top: 10px;
+}
+.footer .find-us .app-store img:hover{
+  transform: scale(1.05);
 }
 .footer .find-us .app-store #apple{
   width: 100px;
@@ -461,6 +476,9 @@ margin-right: 10px;
 .footer .more .list ul li #active{
   font-weight: bolder;
   font-size: 14px;
+}
+.footer .more .list ul li a:hover{
+  font-size: 12px;
 }
 
 /* copyright section */
