@@ -75,7 +75,7 @@ If you are new to the contribution world click on this [link](https://github.com
 [Go Back To the Top](#table-of-content)
 ## Support and contact details
 
-Incase you encounter any bug or issue, feel free to reach us out at our support team [support](https deployed link).
+Incase you encounter any bug or issue, feel free to reach us out at our support team [support](iamkibeh.github.io/agriplus-website/).
 You can also contact us :phone: [+254716246708](tell:+254716246708). Alternatively, you can make a contribution to the project as mentioned earlier.
 
 [Go Back To the Top](#table-of-content)
